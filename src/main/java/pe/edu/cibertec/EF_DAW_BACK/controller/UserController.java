@@ -40,6 +40,7 @@ public class UserController {
                 LoginResponseDTO userDto = new LoginResponseDTO(
                         user[0],
                         user[1],
+
                         user[2],
                         user[3],
                         user[4],
