@@ -1,0 +1,4 @@
+I202210798;Ivan Guillermo;Rupay Alvarez;I202210798@cibertec.edu.pe;933777024;Pasante;12345
+I202213082;Gad Josue;Alva Castromonte;I202213082@cibertec.edu.pe;941123808;Pasante;12345
+I202211271;Julio Rube;Perez Olivo;I202211271@cibertec.edu.pe;942922543;Pasante;12345
+I202211906;Nicolas Aristides;Sembrera Jimenez;I202211906@cibertec.edu.pe;963238402;Pasante;12345
